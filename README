@@ -1,0 +1,9 @@
+Some scripts to export a music library with metadata out of Songbird to other formats.
+
+These scripts were working when I wrote them, but I have not taken the painstaking effort required to check compatibility against different software versions.
+
+Songbird_to_Rhythmbox:
+ Much more polished, designed so any user can run the script and get their library converted.
+
+Songbird_to_iTunes:
+ Much less polished.  Works, but doesn't provide clean user interaction.  Must setup the code to run it.  I don't recall now, but there may have been a couple of lingering issues with song-title or filename character encodings.
