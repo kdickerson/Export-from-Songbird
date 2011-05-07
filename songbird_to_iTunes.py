@@ -6,10 +6,7 @@
 
 from pysqlite2 import dbapi2 as sqlite
 from xml.sax.saxutils import escape
-import shutil
-import sys
 import os
-import urllib
 
 home = os.getenv("HOME")
 username = "user"

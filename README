@@ -1,5 +1,9 @@
 Some scripts to export a music library with metadata out of Songbird to other formats.
 
+Built against the Python 2.x series.  Python 3 compatibility unknown.
+Dependencies:
+  pysqlite2
+
 These scripts were working when I wrote them, but I have not taken the painstaking effort required to check compatibility against different software versions.
 
 Songbird_to_Rhythmbox:
